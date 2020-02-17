@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+
+$primary:       #c85747 !default;
+$default:       #ebc461 !default;
+$enable-gradients:          true;
+@import "node_modules/argon-design-system-free/assets/scss/argon";
